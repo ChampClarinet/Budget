@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25C1E4</color>
+    <color name="colorPrimaryDark">#05B3DC</color>
+    <color name="colorPrimaryDarker">#0285A4</color>
+    <color name="colorAccent">#FFCB23</color>
+    <color name="expense">#FF2332</color>
+    <color name="income">#23FF8D</color>
+    <color name="background_bar">#949494</color>
+    <color name="background">#fcfcfc</color>
+    <color name="disabled">#DFDFDF</color>
+</resources>

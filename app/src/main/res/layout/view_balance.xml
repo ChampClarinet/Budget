@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:paddingBottom="@dimen/my_margin"
+    android:paddingEnd="@dimen/my_margin"
+    android:paddingStart="@dimen/my_margin"
+    android:paddingTop="@dimen/my_margin">
+
+        <TextView
+            android:id="@+id/view_balance_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="99999999999"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_balance_currency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="XXX"
+            android:textStyle="bold" />
+
+</LinearLayout>

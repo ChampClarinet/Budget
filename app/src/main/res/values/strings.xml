@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Budget</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="activityLabel_login">Login</string>
+    <string name="cardLabel_budgets">Budgets</string>
+    <string name="cardLabel_cashflow">CashFlow</string>
+    <string name="cardLabel_balance">Balance</string>
+    <string name="cardLabel_payments">Payments</string>
+    <string name="income">Income</string>
+    <string name="expense">Expenses</string>
+    <string name="select_all">Select All</string>
+
+    <!--Mock-->
+    <string name="mock_name">Wallop Opasakhun</string>
+    <string name="mock_email">champbassist159@gmail.com</string>
+    <string name="mock_userPicUri">https://lh3.googleusercontent.com/-0uv7KHeiK2A/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaPkNp2kZAeC9YKTjjoVhAdWkVBr-A/s64-c-mo/photo.jpg</string>
+
+</resources>
