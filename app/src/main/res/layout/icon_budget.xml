@@ -7,14 +7,18 @@
     android:padding="2dp">
 
     <TextView
+        android:id="@+id/icon_budget_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="10dp"
-        android:text="budgetName" />
+        android:gravity="center_horizontal"
+        android:text="budgetName"
+        android:textSize="10dp" />
 
     <TextView
+        android:id="@+id/icon_budget_value"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
         android:text="00.00" />
 
 </LinearLayout>

@@ -38,6 +38,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         setUser()
         setBudget()
+        setBalance()
+        setCashFlow()
+        setPayment()
 
     }
 
@@ -55,11 +58,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                 .into(image)
         name.setText(R.string.mock_name)
         email.setText(R.string.mock_email)
-
     }
 
     private fun setBudget(){
-
     }
 
     private fun setBalance(){
